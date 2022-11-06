@@ -1,0 +1,23 @@
+p 
+{ 
+    background-color: red; color: white; 
+    font-family: arial font-size 22pt;  
+} 
+ 
+p.halloween 
+{ 
+    color: orange; 
+    background-color: black; 
+} 
+a:hover 
+{ 
+    background-color: red; 
+    color: blue 
+} 
+
+body 
+{ 
+    background-image: url(https://64.media.tumblr.com/69734736db66ab71cb6291080bf3fd22/be6d1575c3839921-76/s540x810/33dee6bab2d700aed5f5936e4a2d479497267e17.gifv); background-size: 100%; 
+    background-repeat: no-repeat; 
+    
+} 
